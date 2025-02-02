@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate **Data Analyst** who enjoys worki
 ![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-orange?style=flat-square)
 
 ## 📂 Featured Projects
-🔹 **[Store Sales Analysis](https://github.com/mehakdixit/project-repo)** - Cleaned, manipulated the data of an online store in Excel; created dashboard and reports using Pivot tables, charts and analytical skills.
+🔹 **[Store Sales Analysis](https://github.com/MehakDixit/Store-Sales-Report)** - Cleaned, manipulated the data of an online store in Excel; created dashboard and reports using Pivot tables, charts and analytical skills.
 
 ## 📫 Let's Connect
 - LinkedIn: [Mehak Dixit](www.linkedin.com/in/mehak-dixit-3a131327b)

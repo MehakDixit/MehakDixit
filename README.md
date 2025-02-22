@@ -1,6 +1,6 @@
 # Hello! I'm Mehak Dixit 👋
 
-Welcome to my GitHub profile! I'm a passionate **Data Analyst** who enjoys working with data to uncover meaningful insights. 🚀
+Welcome to my GitHub profile! I'm a **Data Analyst** by profession who enjoys working with data to uncover meaningful insights. 🚀
 
 ## 🔹 Everything you need to know about Mehak -
 - 📊 Data-driven professional skilled in **SQL, Excel, Python, and Power BI**.

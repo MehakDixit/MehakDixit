@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I'm a passionate **Data Analyst** who enjoys worki
 
 ## 📂 Featured Projects
 🔹 **[Store Sales Analysis](https://github.com/MehakDixit/Store-Sales-Report)** - Cleaned, manipulated the data of an online store in Excel; created dashboard and reports using Pivot tables, charts and analytical skills.
+
 🔹 **[Elections Results analysis]((https://github.com/MehakDixit/Elections-Results-Analysis))** - Designed ERD diagrams and schemas for creating relationships between tables and performed ETL processes with the help of SQL aggregate functions and Joins for the Lok Sabha General Electons results data.
 ## 📫 Let's Connect
 - LinkedIn: [Mehak Dixit](www.linkedin.com/in/mehak-dixit-3a131327b)

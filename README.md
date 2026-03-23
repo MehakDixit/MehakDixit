@@ -11,7 +11,7 @@
 *Data Analyst · Pattern Seeker · Always asking* ***why?***
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehak-dixit-3a131327b)
-[![GitHub](https://img.shields.io/badge/GitHub-dot--in--the--data-181717?style=for-the-badge&logo=github)](https://github.com/dot-in-the-data)
+[![GitHub](https://img.shields.io/badge/GitHub-dot--in--the--data-181717?style=for-the-badge&logo=github)](https://github.com/dot-in-the-data?tab=repositories)
 [![Email](https://img.shields.io/badge/Email-mk23290199@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mk23290199@gmail.com)
 
 </div>
@@ -84,7 +84,7 @@ mehak = {
 |-----------|-----------|
 | Student records cleaned & validated | **100,000+** |
 | Reduction in reporting errors | **10%** |
-| Junior analysts mentored | **8** |
+| Junior analysts mentored | **7** |
 | Retail clients served | **7+** |
 | Decisions accelerated | **25% faster** |
 | Reporting time saved | **30%** |

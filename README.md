@@ -84,7 +84,7 @@ mehak = {
 |-----------|-----------|
 | Student records cleaned & validated | **100,000+** |
 | Reduction in reporting errors | **10%** |
-| Junior analysts mentored | **7** |
+| Junior analysts mentored | **8** |
 | Retail clients served | **7+** |
 | Decisions accelerated | **25% faster** |
 | Reporting time saved | **30%** |

@@ -1,4 +1,3 @@
-# dot-in-the-data
 <div align="center">
 
 <!-- Animated banner using readme-typing-svg -->
@@ -83,8 +82,8 @@ mehak = {
 |-----------|-----------|
 | Student records cleaned & validated | **100,000+** |
 | Reduction in reporting errors | **10%** |
-| Junior analysts mentored | **8+** |
-| Retail clients served | **5+** |
+| Junior analysts mentored | **7** |
+| Retail clients served | **7+** |
 | Decisions accelerated | **25% faster** |
 | Reporting time saved | **30%** |
 | ML model accuracy | **99%** |
@@ -97,10 +96,10 @@ mehak = {
 
 ```
 Currently running:
+  ├── 📊 Analysis using Python
   ├── 📐 Data Engineering concepts
   ├── 💹 Financial Analytics
-  └── 🧠 Advanced ML & forecasting
-
+  └── ⚙️ Automation using n8n
 ```
 
 ---

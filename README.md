@@ -23,8 +23,8 @@
 mehak = {
     "role"       : "Data Analyst @ Virtue Analytics",
     "experience" : "2+ years",
-    "superpower" : "Turning 100K+ rows of data into actionable insights",
-    "tools"      : ["Python 🐍", "SQL 🗄️", "Power BI 📊", "Excel ⚡"],
+    "superpower" : "Dealing with data and numbers",
+    "tools"      : ["SQL 🗄️", "Excel ⚡","Power BI 📊", "Python 🐍",],
     "currently"  : "Building scalable analytics & exploring data engineering",
     "focus"      : "Data Analysis · BI · Automation · Data Engineering",
     "philosophy" : "Every dataset has a story. I just ask the right questions.",
